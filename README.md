@@ -31,8 +31,3 @@ cp config.conf ~/.config/neofetch/
 
 # Run
 neofetch
-<<<<<<< HEAD
-```
-=======
-```
->>>>>>> 42d00a72aa617227abccf1f3f4cfefaca0116659
